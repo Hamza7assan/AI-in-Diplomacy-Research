@@ -1,6 +1,6 @@
 # Artificial Intelligence in Diplomacy
 
-![Cover](images/cover.png)
+![Cover](images/cover.PNG)
 # Artificial Intelligence in Diplomacy
 
 This repository contains my research paper exploring the impact of Artificial Intelligence on diplomacy, foreign policy, and international relations.
