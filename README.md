@@ -36,3 +36,13 @@ This paper examines how Artificial Intelligence is transforming diplomatic pract
 ## License
 
 This work is shared for academic and educational purposes.
+## Citation
+
+If you reference this work, please cite:
+
+```text
+Hassan, H. (2026).
+Artificial Intelligence in Diplomacy:
+Opportunities, Challenges, and the Future of International Relations.
+Jordan University of Science and Technology.
+```
