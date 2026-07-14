@@ -1,3 +1,7 @@
+![Research](https://img.shields.io/badge/Type-Research-blue)
+![AI](https://img.shields.io/badge/Field-Artificial%20Intelligence-green)
+![Diplomacy](https://img.shields.io/badge/Topic-Diplomacy-orange)
+![License](https://img.shields.io/badge/License-MIT-red)
 # Artificial Intelligence in Diplomacy
 
 ![Cover](images/cover.PNG)
